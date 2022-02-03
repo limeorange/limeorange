@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyeon%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-## Hi, This is Suhyeon Lee!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🍊
+## Hi, This is Suhyeon Lee!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"
 ### My major is data analysis and I'm studying about Bigdata, ML, DL.
 
 <!-- [![tistory's GitHub stats](https://tistory-readme-stats.vercel.app/api/badge?name=limeorange)](https://limeorange.tistory.com/)  <br> -->
