@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 
-## 🛠 Language & Tool 🛠
+## 🛠 Language & Tools 🛠
 <div align="center">
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="numpy" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
