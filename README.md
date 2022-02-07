@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+
 </p>
 
 ### About Me
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:happy_shsh@naver.com)](mailto:happy_shsh@naver.com) 
 <a href="https://limeorange.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8D%8A-blog-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8D%8A%20%20blog-orange?style=flat-square"/>
 </a>
 - 🔭 I’m currently looking for a job while studying on my own.
 - 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`.<br>
