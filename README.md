@@ -20,7 +20,7 @@
 <a href="https://limeorange.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8D%8A%20%20blog-orange?style=flat-square"/>
 </a>
-<!-- - 🔭 I’m currently looking for a job while studying on my own. -->
+<!-- - 🔭 I’m currently looking for a job while studying on my own.  -->
 - 🌱 I’m currently learning `Data Analysis`, `Machine Learning`, `Deep Learning`.<br>
 
 
