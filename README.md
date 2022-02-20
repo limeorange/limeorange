@@ -28,7 +28,7 @@
 
 | Date | Contents 	| Organizaion |
 |-----	|:----------:	|:-----------:|
-| `2021.09.` ~ `2022.03.` 	| [Elice AI Track 3rd](https://aitrack.elice.io/explore) 	| Elice |
+| `2021.09.` ~ `2022.03.` 	| [Elice  AI Track 3rd](https://aitrack.elice.io/explore) 	| Elice |
 | `2021.05.` ~ `2022.03.` 	| Undergraduate researcher | DS&ML Lab, Suwon Univ.	|
 | `2018.02.` ~ `2022.08.` 	| Department of Data Science  | Suwon University | -->
 <!-- 
