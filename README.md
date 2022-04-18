@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 
 </p>
 
