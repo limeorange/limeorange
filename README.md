@@ -12,6 +12,7 @@
   <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 
 </p>
 
