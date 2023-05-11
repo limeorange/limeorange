@@ -14,17 +14,21 @@
   <img src="https://img.shields.io/badge/pandas-e5989b?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-f77f00?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-6a994e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
- 
+  <img src="https://img.shields.io/badge/R-52796f?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keras-52796f?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-a53860?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-a53860?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-ff9770?style=for-the-badge&logo=css3&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-fcca46?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp
   <img src="https://img.shields.io/badge/TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=white"> &nbsp
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/styledcomponents-cb997e?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/tailwindcss-70abaf?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>&nbsp
 </p>
 
 
