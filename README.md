@@ -10,20 +10,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/numpy-4BA6C9?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-e5989b?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-f77f00?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src ="https://img.shields.io/badge/scikitlearn-6a994e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-52796f?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
+   
+  <img src="https://img.shields.io/badge/R-a53860?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
-   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp
-
+  <img src="https://img.shields.io/badge/css-ff9770?style=for-the-badge&logo=css3&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-fcca46?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=white"> &nbsp
 </p>
 
 
