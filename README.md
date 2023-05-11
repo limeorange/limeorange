@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/numpy-4BA6C9?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-e5989b?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-f77f00?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src ="https://img.shields.io/badge/scikitlearn-6a994e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-52796f?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikitlearn-6a994e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
+ 
 </p>
 
 <p align="center">
-   
+  <img src="https://img.shields.io/badge/Keras-52796f?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-a53860?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-ff9770?style=for-the-badge&logo=css3&logoColor=white">&nbsp
