@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Keras-a53860?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-ff9770?style=for-the-badge&logo=css3&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-fcca46?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-fcca46?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/react-24AFDA?style=for-the-badge&logo=react&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=white"> &nbsp
 </p>
 
