@@ -5,7 +5,7 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠 </b></h3>
 
-<!-- 뱃지 사이트 : https://simpleicons.org/  -->
+<!-- 뱃지 사이트 : https://simpleicons.org/   -->
 
 
 <p align="center">
