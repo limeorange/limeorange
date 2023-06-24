@@ -29,6 +29,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/styledcomponents-cb997e?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/tailwindcss-70abaf?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/next.js-D6B1E3?style=for-the-badge&logo=next.js&logoColor=white"/></a>&nbsp
 </p>
 
 
