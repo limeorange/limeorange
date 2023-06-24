@@ -39,8 +39,8 @@
   <img src="https://img.shields.io/badge/%F0%9F%8D%8A%20%20blog-orange?style=flat-square"/>
 </a>
 <!-- - 🔭 I’m currently looking for a job while studying on my own.  -->
-🌱 I’m interested in `Data Analysis`, `Machine Learning`, `Deep Learning`.<br>
-🌱 I’m currently learning the front end, especially about `React`, `JavaScript`, `TypeScript`. <br>
+<!-- 🌱 I’m interested in `Data Analysis`, `Machine Learning`, `Deep Learning`.<br> -->
+<!-- 🌱 I’m currently learning the front end, especially about `React`, `JavaScript`, `TypeScript`. <br> -->
 
 
 <!-- ### Educations
