@@ -32,12 +32,12 @@
 <img src="https://img.shields.io/badge/react_native-3E3E3E?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>&nbsp
 </p>
 
-
+<!-- 
 ### About Me
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:happy_shsh@naver.com)](mailto:happy_shsh@naver.com) 
 <a href="https://limeorange.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8D%8A%20%20blog-orange?style=flat-square"/>
-</a>
+</a> -->
 <!-- - 🔭 I’m currently looking for a job while studying on my own.  -->
 <!-- 🌱 I’m interested in `Data Analysis`, `Machine Learning`, `Deep Learning`.<br> -->
 <!-- 🌱 I’m currently learning the front end, especially about `React`, `JavaScript`, `TypeScript`. <br> -->
@@ -60,7 +60,7 @@
 | `2021.12.` | [우리나라 농작업 손상의 특성에 대한 다양한 분석](https://github.com/limeorange/Univ_DataAnalysisContest) | 2021 교내 데이터 분석 경진대회, Rank `2`|
 | `2021.11.` | [Flask 도서관 웹 사이트 제작] (https://github.com/limeorange/elice-flask-project) |  | -->
 
-### Statistics
+<h3 align="center"><b> Statistics </b></h3>
 <p align="center">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=limeorange&hide=stars&show_icons=true"/> &nbsp;
 </p>
