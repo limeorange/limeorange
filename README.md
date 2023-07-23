@@ -3,11 +3,9 @@
 <!-- ![header] (https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Suhyeon%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)-->
 <!-- ## Hi, This is Suhyun Lee!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-<h3 align="center"><b>🛠 Tech Stack 🛠 </b></h3>
-
 <!-- 뱃지 사이트 : https://simpleicons.org/   -->
 
-
+<h3 align="center"><b> Data Science </b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/numpy-4BA6C9?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp
@@ -15,10 +13,11 @@
   <img src="https://img.shields.io/badge/PyTorch-f77f00?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-6a994e.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-52796f?style=for-the-badge&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-a53860?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center"><b> FrontEnd </b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Keras-a53860?style=for-the-badge&logo=Keras&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-ff9770?style=for-the-badge&logo=css3&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-fcca46?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
